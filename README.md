@@ -1,8 +1,8 @@
 # "Olá pessoal! Samuel Carneiro".
 
-Estudante de Análise e Desenvolvimento de Sistemas!
-Técnico em Redes de Computadores!
-Bahia, Brasil.
+- Estudante de Análise e Desenvolvimento de Sistemas!
+- Técnico em Redes de Computadores!
+- Feira de Santana, Bahia, Brasil.
 
 
 ## Conecte-se comigo
