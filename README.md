@@ -4,6 +4,10 @@
 - Estudante de Análise e Desenvolvimento de Sistemas!
 - Técnico em Redes de Computadores!
 - Feira de Santana, Bahia, Brasil.
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c-almeida-ab4ba5277)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samu3lc_/)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelcarneiro)-->
 
 
 ## Meus conhecimentos & Habilidades
@@ -19,19 +23,15 @@
 <!--## Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=000&border_color=30A3DC&text_color=FFF)
 -->
-## Meus Repositórios
+## Principais Repositórios
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=script-linux&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiroE/script-linux)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=menu-responsivo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiro/menu-responsivo)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiro/nlw-esports-explorer)
 
-
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c-almeida-ab4ba5277)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samu3lc_/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelcarneiro)
-
+## Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiroE/dio-lab-open-source)
 
 <!--
 **samuelcarneiro/samuelcarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
