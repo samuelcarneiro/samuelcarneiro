@@ -4,6 +4,8 @@
 - Técnico em Redes de Computadores!
 - Feira de Santana, Bahia, Brasil.
 
+- Sejam bem-vindos ao meu perfil no GitHub!
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c-almeida-ab4ba5277)
