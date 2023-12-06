@@ -1,5 +1,6 @@
-# "Olá pessoal! Samuel Carneiro".
+# printf("Olá pessoal!");
 
+- Me chamo Samuel;
 - Estudante de Análise e Desenvolvimento de Sistemas!
 - Técnico em Redes de Computadores!
 - Feira de Santana, Bahia, Brasil.
