@@ -1,4 +1,9 @@
-# Olá pessoal! Samuel Carneiro.
+# "Olá pessoal! Samuel Carneiro".
+
+Estudante de Análise e Desenvolvimento de Sistemas!
+Técnico em Redes de Computadores!
+Bahia, Brasil.
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-c-almeida-ab4ba5277)
