@@ -30,6 +30,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=script-linux&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiroE/script-linux)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiro/pokedex)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=menu-responsivo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiro/menu-responsivo)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/samuelcarneiro/nlw-esports-explorer)
