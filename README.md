@@ -26,16 +26,16 @@
 
 ## Principais Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/samuelcarneiro/studyrepo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=000)](https://github.com/samuelcarneiro/studyrepo)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/samuelcarneiro/scripts-linux)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=000)](https://github.com/samuelcarneiro/scripts-linux)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=menu-responsivo&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/samuelcarneiro/menu-responsivo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=menu-responsivo&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=000)](https://github.com/samuelcarneiro/menu-responsivo)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/samuelcarneiro/nlw-esports-explorer)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=000)](https://github.com/samuelcarneiro/nlw-esports-explorer)
 
 ## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/samuelcarneiroE/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=FFF&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=000)](https://github.com/samuelcarneiroE/dio-lab-open-source)
 
 <!--
 **samuelcarneiro/samuelcarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
