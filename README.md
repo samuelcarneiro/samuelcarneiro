@@ -21,6 +21,7 @@
 ![Linux](https://img.shields.io/badge/Linux-555?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelcarneiro&theme=transparent&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=555)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=FFF&border_color=555&title_color=00599C&text_color=555)
 
 
