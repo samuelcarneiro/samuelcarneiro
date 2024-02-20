@@ -30,9 +30,9 @@
 
 ## Principais Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=555)](https://github.com/samuelcarneiro/studyrepo)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=555)](https://github.com/samuelcarneiro/scripts-linux)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=555)](https://github.com/samuelcarneiro/studyrepo)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=menu-responsivo&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=555)](https://github.com/samuelcarneiro/menu-responsivo)
 
