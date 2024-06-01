@@ -24,7 +24,7 @@
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelcarneiro&theme=transparent&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=212121)
 -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=F6F8FA&border_color=00599C&border&title_color=00599C&text_color=000)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=0D1117&border_color=00599C&border&title_color=00599C&text_color=ABB1B7)
 
 
 <!--## Linguagens mais utilizadas
@@ -33,16 +33,16 @@
 
 ## Principais Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=F6F8FA&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=000)](https://github.com/samuelcarneiro/scripts-linux)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/scripts-linux)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=F6F8FA&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=000)](https://github.com/samuelcarneiro/studyrepo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/studyrepo)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=website-template-components&bg_color=F6F8FA&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=000)](https://github.com/samuelcarneiro/website-template-components)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=website-template-components&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/website-template-components)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=F6F8FA&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=000)](https://github.com/samuelcarneiro/nlw-esports-explorer)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/nlw-esports-explorer)
 
 ## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=F6F8FA&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=000)](https://github.com/samuelcarneiro/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/dio-lab-open-source)
 
 <!--
 **samuelcarneiro/samuelcarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
