@@ -35,7 +35,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/scripts-linux)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=studyrepo&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/studyrepo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=site-allan-ramalho-consultoria-2024&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/site-allan-ramalho-consultoria-2024)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=website-template-components&bg_color=0D1117&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=ABB1B7)](https://github.com/samuelcarneiro/website-template-components)
 
