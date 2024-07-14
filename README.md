@@ -37,7 +37,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=calculadora-churrasco&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=00599C)](https://github.com/samuelcarneiro/calculadora-churrasco)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=website-template-components&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=00599C)](https://github.com/samuelcarneiro/website-template-components)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-journey-html-css-js&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=00599C)](https://github.com/samuelcarneiro/nlw-journey-html-css-js)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=00599C)](https://github.com/samuelcarneiro/nlw-esports-explorer)
 
