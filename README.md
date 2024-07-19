@@ -22,7 +22,7 @@
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelcarneiro&theme=transparent&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=212121)
 -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=FFF&border_color=000&border&title_color=00599C&text_color=09090B)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=FFF&border_color=00599C&border&title_color=00599C&text_color=09090B)
 
 
 <!--## Linguagens mais utilizadas
