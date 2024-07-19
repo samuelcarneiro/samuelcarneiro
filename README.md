@@ -22,7 +22,7 @@
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelcarneiro&theme=transparent&bg_color=FFF&border_color=555&show_icons=true&icon_color=00599C&title_color=00599C&text_color=212121)
 -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=09090B&border_color=00599C&border&title_color=00599C&text_color=A1A1AB)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelcarneiro&layout=compact&bg_color=FFF&border_color=000&border&title_color=00599C&text_color=09090B)
 
 
 <!--## Linguagens mais utilizadas
@@ -31,18 +31,18 @@
 
 ## Principais Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=A1A1AB)](https://github.com/samuelcarneiro/scripts-linux)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/scripts-linux)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=site-allan-ramalho-consultoria-2024&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=A1A1AB)](https://github.com/samuelcarneiro/site-allan-ramalho-consultoria-2024)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=site-allan-ramalho-consultoria-2024&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/site-allan-ramalho-consultoria-2024)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=calculadora-churrasco&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=A1A1AB)](https://github.com/samuelcarneiro/calculadora-churrasco)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=calculadora-churrasco&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/calculadora-churrasco)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-journey-html-css-js&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=A1A1AB)](https://github.com/samuelcarneiro/nlw-journey-html-css-js)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-journey-html-css-js&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/nlw-journey-html-css-js)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=A1A1AB)](https://github.com/samuelcarneiro/nlw-esports-explorer)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/nlw-esports-explorer)
 
 ## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=09090B&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=A1A1AB)](https://github.com/samuelcarneiro/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=dio-lab-open-source&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/dio-lab-open-source)
 
 <!--
 **samuelcarneiro/samuelcarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
