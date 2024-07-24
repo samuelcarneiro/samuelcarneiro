@@ -31,6 +31,8 @@
 
 ## Principais Repositórios
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=cartao-visitas-online&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/cartao-visitas-online)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=scripts-linux&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/scripts-linux)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=site-allan-ramalho-consultoria-2024&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/site-allan-ramalho-consultoria-2024)
@@ -40,8 +42,6 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-journey-html-css-js&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/nlw-journey-html-css-js)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/nlw-esports-explorer)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=cartao-visitas-online&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/cartao-visitas-online)
 
 
 ## Contribuições
