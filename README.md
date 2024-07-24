@@ -41,7 +41,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=nlw-esports-explorer&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/nlw-esports-explorer)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=devlinks&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/devlinks)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcarneiro&repo=cartao-visitas-online&bg_color=FFF&border_color=00599C&show_icons=true&icon_color=00599C&title_color=00599C&text_color=09090B)](https://github.com/samuelcarneiro/cartao-visitas-online)
 
 
 ## Contribuições
