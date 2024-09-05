@@ -1,7 +1,7 @@
-# printf("Olá pessoal! Sejam bem-vindos ao meu perfil!");
+# printf("Olá pessoal! Sejam bem-vindos!");
 
 - Me chamo Samuel;
-- Estudante de Análise e Desenvolvimento de Sistemas!
+- Estudante de Análise e Desenvolvimento de Sistemas - UniCesumar!
 - Técnico em Redes de Computadores!
 - Feira de Santana, Bahia, Brasil.
   
