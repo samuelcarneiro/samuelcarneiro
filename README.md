@@ -9,7 +9,136 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samu3lc_/)
 <!--[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelcarneiro)-->
 
-## Meus conhecimentos & Habilidades
+---
+
+## Linguagens e Tecnologias
+
+<img
+  align="left"
+  alt="html"
+  title="html"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+  align="left"
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+  align="left"
+  alt="javascript"
+  title="javascript"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+  align="left"
+  alt="bootstrap"
+  title="bootstrap"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+
+<img
+  align="left"
+  alt="c"
+  title="c"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+
+<img
+  align="left"
+  alt="java"
+  title="java"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+
+<img
+  align="left"
+  alt="mysql"
+  title="mysql"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
+
+<img
+  align="left"
+  alt="nodejs"
+  title="nodejs"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+/>
+
+<img
+  align="left"
+  alt="git"
+  title="git"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+  align="left"
+  alt="fedora"
+  title="fedora"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"
+/>
+
+<img
+  align="left"
+  alt="ubuntu"
+  title="ubuntu"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+/>
+<img
+  align="left"
+  alt="bash"
+  title="bash"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+/>
+
+<img
+  align="left"
+  alt="vscode"
+  title="vscode"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+<img
+  align="left"
+  alt="figma"
+  title="figma"
+  width="40px"
+  style="padding-right=10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+          
+<!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,18 +153,4 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<!--
-**samuelcarneiro/samuelcarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
