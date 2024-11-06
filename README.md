@@ -12,7 +12,7 @@
 ---
 
 ## Linguagens e Tecnologias
-<p style="padding-bottom=10px;">
+
 <img
   align="left"
   alt="html"
@@ -27,7 +27,6 @@
   alt="css"
   title="css"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
@@ -36,7 +35,6 @@
   alt="javascript"
   title="javascript"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
@@ -45,7 +43,6 @@
   alt="bootstrap"
   title="bootstrap"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 
@@ -54,7 +51,6 @@
   alt="c"
   title="c"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
 
@@ -63,7 +59,6 @@
   alt="java"
   title="java"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
@@ -72,7 +67,6 @@
   alt="mysql"
   title="mysql"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
 />
 
@@ -81,7 +75,6 @@
   alt="nodejs"
   title="nodejs"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
 />
 
@@ -99,7 +92,6 @@
   alt="github"
   title="github"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
@@ -108,7 +100,6 @@
   alt="fedora"
   title="fedora"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"
 />
 
@@ -117,7 +108,6 @@
   alt="ubuntu"
   title="ubuntu"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
 />
 <img
@@ -125,7 +115,6 @@
   alt="bash"
   title="bash"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 
@@ -134,17 +123,14 @@
   alt="vscode"
   title="vscode"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-</p>
 
 <img
   align="left"
   alt="figma"
   title="figma"
   width="40px"
-  style="padding-right=10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
           
