@@ -12,7 +12,7 @@
 ---
 
 ## Linguagens e Tecnologias
-<p>
+<p style="padding-bottom=10px;">
 <img
   align="left"
   alt="html"
