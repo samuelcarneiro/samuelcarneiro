@@ -2,7 +2,7 @@
 
 - Me chamo Samuel;
 - Estudante de Análise e Desenvolvimento de Sistemas - UniCesumar!
-- Técnico em Redes de Computadores!
+- Técnico em Redes de Computadores - SENAI
 - Feira de Santana, Bahia, Brasil.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carneiro-almeida-ab4ba5277/)
