@@ -1,7 +1,7 @@
 # console.log("Olá pessoal! Sejam bem-vindos!");
 
 - Me chamo Samuel;
-- Estudante de Análise e Desenvolvimento de Sistemas - UniCesumar!
+- Graduando em Análise e Desenvolvimento de Sistemas - UniCesumar!
 - Técnico em Redes de Computadores - SENAI
 - Feira de Santana, Bahia, Brasil.
   
