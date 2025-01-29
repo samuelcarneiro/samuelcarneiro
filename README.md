@@ -1,4 +1,4 @@
-# printf("Olá pessoal! Sejam bem-vindos!");
+# console.log("Olá pessoal! Sejam bem-vindos!");
 
 - Me chamo Samuel;
 - Estudante de Análise e Desenvolvimento de Sistemas - UniCesumar!
