@@ -7,6 +7,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carneiro-almeida-ab4ba5277/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samu3lc_/)
+[![Site](https://img.shields.io/badge/Site-43853D.svg?style=for-the-badge&logoColor=white)](https://samuelcarneiro.github.io/dev)
 <!--[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelcarneiro)-->
 
 ---
