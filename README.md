@@ -1,4 +1,4 @@
-# console.log("Olá pessoal! Sejam bem-vindos!");
+# print("Olá pessoal! Sejam bem-vindos!")
 
 - Me chamo Samuel;
 - Analista e Desenvolvedor de Sistemas
