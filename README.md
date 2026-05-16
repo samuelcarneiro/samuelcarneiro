@@ -1,9 +1,15 @@
 # print("Olá pessoal! Sejam bem-vindos!")
 
-- Me chamo Samuel;
-- Analista e Desenvolvedor de Sistemas
-- Técnico em Redes de Computadores
-- Feira de Santana, Bahia, Brasil.
+<pre>
+desenvolvedor = {
+    "nome": "Samuel Carneiro",
+    "formacao": "Analista e Desenvolvedor de Sistemas",
+    "tecnico": "Redes de Computadores",
+    "cidade: "Feira de Santana",
+    "estado": "Bahia",
+    "pais" : "Brasil"
+}
+</pre>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carneiro-almeida-ab4ba5277/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samu3lc_/)
