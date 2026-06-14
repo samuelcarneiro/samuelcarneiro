@@ -5,8 +5,6 @@ desenvolvedor = {
     "nome": "Samuel Carneiro",
     "formacao": "Analista e Desenvolvedor de Sistemas",
     "tecnico": "Redes de Computadores",
-    "cidade: "Feira de Santana",
-    "estado": "Bahia",
     "pais" : "Brasil"
 }
 </pre>
